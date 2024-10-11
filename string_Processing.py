@@ -4,7 +4,7 @@ Immutable'''
 
 my_str = 'Hey I am  Python    '
 
-''' These are the majorly uses string inbuilt functions'''
+''' These are the majorly used string inbuilt functions'''
 
 # String Manipulation
 '''upper = my_str.upper() # Converting string in to capital letters
